@@ -21,5 +21,5 @@ project-kalkulator
 
 ## Kelompok
 1. Putra Sadewo (250511121)
-2. Ilham auliatullah (25011022)
+2. Ilham Auliatullah (25011022)
 3. Jawhar Mohammed Abdullah (250511156)
